@@ -1,4 +1,4 @@
-FROM clux/muslrust:1.95.0-nightly
+FROM clux/muslrust:1.96.0-nightly
 
 USER root
 
